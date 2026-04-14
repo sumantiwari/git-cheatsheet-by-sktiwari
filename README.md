@@ -1,4 +1,6 @@
-# 🚀 Git Command Cheat Sheet
+# 👨‍💻 Git Cheat Sheet by S K Tiwari
+
+Helping developers master Git with practical commands 🚀
 
 ## 🔧 Setup
 
